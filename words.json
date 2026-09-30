@@ -1,0 +1,232 @@
+[
+  {
+    "id": "GS4_barn",
+    "image": "image1/GS4_barn.jpg",
+    "audio": "audio1/GS4_barn.mp3"
+  },
+  {
+    "id": "GS4_bee (hive)",
+    "image": "image1/GS4_bee (hive).jpg",
+    "audio": "audio1/GS4_bee (hive).mp3"
+  },
+  {
+    "id": "GS4_beetle",
+    "image": "image1/GS4_beetle.jpg",
+    "audio": "audio1/GS4_beetle.mp3"
+  },
+  {
+    "id": "GS4_bugs",
+    "image": "image1/GS4_bugs.jpg",
+    "audio": "audio1/GS4_bugs.mp3"
+  },
+  {
+    "id": "GS4_butterfly",
+    "image": "image1/GS4_butterfly.jpg",
+    "audio": "audio1/GS4_butterfly.mp3"
+  },
+  {
+    "id": "GS4_carrot",
+    "image": "image1/GS4_carrot.jpg",
+    "audio": "audio1/GS4_carrot.mp3"
+  },
+  {
+    "id": "GS4_cat",
+    "image": "image1/GS4_cat.jpg",
+    "audio": "audio1/GS4_cat.mp3"
+  },
+  {
+    "id": "GS4_caterpillar",
+    "image": "image1/GS4_caterpillar.jpg",
+    "audio": "audio1/GS4_caterpillar.mp3"
+  },
+  {
+    "id": "GS4_chick (chicken)",
+    "image": "image1/GS4_chick (chicken).jpg",
+    "audio": "audio1/GS4_chick (chicken).mp3"
+  },
+  {
+    "id": "GS4_clean (dirty)",
+    "image": "image1/GS4_clean (dirty).jpg",
+    "audio": "audio1/GS4_clean (dirty).mp3"
+  },
+  {
+    "id": "GS4_cow",
+    "image": "image1/GS4_cow.jpg",
+    "audio": "audio1/GS4_cow.mp3"
+  },
+  {
+    "id": "GS4_crow",
+    "image": "image1/GS4_crow.jpg",
+    "audio": "audio1/GS4_crow.mp3"
+  },
+  {
+    "id": "GS4_dinner",
+    "image": "image1/GS4_dinner.jpg",
+    "audio": "audio1/GS4_dinner.mp3"
+  },
+  {
+    "id": "GS4_dog",
+    "image": "image1/GS4_dog.jpg",
+    "audio": "audio1/GS4_dog.mp3"
+  },
+  {
+    "id": "GS4_donkey",
+    "image": "image1/GS4_donkey.jpg",
+    "audio": "audio1/GS4_donkey.mp3"
+  },
+  {
+    "id": "GS4_dragonfly",
+    "image": "image1/GS4_dragonfly.jpg",
+    "audio": "audio1/GS4_dragonfly.mp3"
+  },
+  {
+    "id": "GS4_duck",
+    "image": "image1/GS4_duck.jpg",
+    "audio": "audio1/GS4_duck.mp3"
+  },
+  {
+    "id": "GS4_far (near)",
+    "image": "image1/GS4_far (near).jpg",
+    "audio": "audio1/GS4_far (near).mp3"
+  },
+  {
+    "id": "GS4_farm (farmer)",
+    "image": "image1/GS4_farm (farmer).jpg",
+    "audio": "audio1/GS4_farm (farmer).mp3"
+  },
+  {
+    "id": "GS4_fly",
+    "image": "image1/GS4_fly.jpg",
+    "audio": "audio1/GS4_fly.mp3"
+  },
+  {
+    "id": "GS4_frog",
+    "image": "image1/GS4_frog.jpg",
+    "audio": "audio1/GS4_frog.mp3"
+  },
+  {
+    "id": "GS4_goat",
+    "image": "image1/GS4_goat.jpg",
+    "audio": "audio1/GS4_goat.mp3"
+  },
+  {
+    "id": "GS4_good (bad)",
+    "image": "image1/GS4_good (bad).jpg",
+    "audio": "audio1/GS4_good (bad).mp3"
+  },
+  {
+    "id": "GS4_grasshopper",
+    "image": "image2/GS4_grasshopper.jpg",
+    "audio": "audio2/GS4_grasshopper.mp3"
+  },
+  {
+    "id": "GS4_happy (sad)",
+    "image": "image2/GS4_happy (sad).jpg",
+    "audio": "audio2/GS4_happy (sad).mp3"
+  },
+  {
+    "id": "GS4_hide",
+    "image": "image2/GS4_hide.jpg",
+    "audio": "audio2/GS4_hide.mp3"
+  },
+  {
+    "id": "GS4_hill",
+    "image": "image2/GS4_hill.jpg",
+    "audio": "audio2/GS4_hill.mp3"
+  },
+  {
+    "id": "GS4_horse",
+    "image": "image2/GS4_horse.jpg",
+    "audio": "audio2/GS4_horse.mp3"
+  },
+  {
+    "id": "GS4_ladybug",
+    "image": "image2/GS4_ladybug.jpg",
+    "audio": "audio2/GS4_ladybug.mp3"
+  },
+  {
+    "id": "GS4_mouse (mice)",
+    "image": "image2/GS4_mouse (mice).jpg",
+    "audio": "audio2/GS4_mouse (mice).mp3"
+  },
+  {
+    "id": "GS4_new (old)",
+    "image": "image2/GS4_new (old).jpg",
+    "audio": "audio2/GS4_new (old).mp3"
+  },
+  {
+    "id": "GS4_ostrich",
+    "image": "image2/GS4_ostrich.jpg",
+    "audio": "audio2/GS4_ostrich.mp3"
+  },
+  {
+    "id": "GS4_owl",
+    "image": "image2/GS4_owl.jpg",
+    "audio": "audio2/GS4_owl.mp3"
+  },
+  {
+    "id": "GS4_pig",
+    "image": "image2/GS4_pig.jpg",
+    "audio": "audio2/GS4_pig.mp3"
+  },
+  {
+    "id": "GS4_pigeon",
+    "image": "image2/GS4_pigeon.jpg",
+    "audio": "audio2/GS4_pigeon.mp3"
+  },
+  {
+    "id": "GS4_pony",
+    "image": "image2/GS4_pony.jpg",
+    "audio": "audio2/GS4_pony.mp3"
+  },
+  {
+    "id": "GS4_pull (push)",
+    "image": "image2/GS4_pull (push).jpg",
+    "audio": "audio2/GS4_pull (push).mp3"
+  },
+  {
+    "id": "GS4_rain (spout)",
+    "image": "image2/GS4_rain (spout).jpg",
+    "audio": "audio2/GS4_rain (spout).mp3"
+  },
+  {
+    "id": "GS4_seeds",
+    "image": "image2/GS4_seeds.jpg",
+    "audio": "audio2/GS4_seeds.mp3"
+  },
+  {
+    "id": "GS4_sheep",
+    "image": "image2/GS4_sheep.jpg",
+    "audio": "audio2/GS4_sheep.mp3"
+  },
+  {
+    "id": "GS4_spider",
+    "image": "image2/GS4_spider.jpg",
+    "audio": "audio2/GS4_spider.mp3"
+  },
+  {
+    "id": "GS4_sun",
+    "image": "image2/GS4_sun.jpg",
+    "audio": "audio2/GS4_sun.mp3"
+  },
+  {
+    "id": "GS4_swallow",
+    "image": "image2/GS4_swallow.jpg",
+    "audio": "audio2/GS4_swallow.mp3"
+  },
+  {
+    "id": "GS4_tail",
+    "image": "image2/GS4_tail.jpg",
+    "audio": "audio2/GS4_tail.mp3"
+  },
+  {
+    "id": "GS4_web",
+    "image": "image2/GS4_web.jpg",
+    "audio": "audio2/GS4_web.mp3"
+  },
+  {
+    "id": "GS4_young (old)",
+    "image": "image2/GS4_young (old).jpg",
+    "audio": "audio2/GS4_young (old).mp3"
+  }
+]
